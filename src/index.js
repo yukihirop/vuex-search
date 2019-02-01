@@ -1,4 +1,4 @@
-import { INDEX_MODES } from 'js-worker-search';
+import { INDEX_MODES } from 'js-search';
 
 import plugin from './plugin';
 import SearchApi from './SearchApi';

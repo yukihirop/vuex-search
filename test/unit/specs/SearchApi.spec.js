@@ -1,4 +1,4 @@
-import { INDEX_MODES } from 'js-worker-search';
+import { INDEX_MODES } from 'js-search';
 import { SearchApi } from 'vuex-search';
 
 function getSearchApi({
