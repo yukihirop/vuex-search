@@ -1,6 +1,6 @@
 import Vue from 'vue';
 import Vuex from 'vuex';
-import { INDEX_MODES } from 'js-worker-search';
+import { INDEX_MODES } from 'js-search';
 import SearchApi from 'vuex-search/SearchApi';
 import VuexSearch from 'vuex-search/VuexSearch';
 

@@ -9,7 +9,7 @@
 <a href="https://www.npmjs.com/package/vuex-search"><img src="https://img.shields.io/npm/l/vuex-search.svg" alt="License"></a>
 </p>
 
-> Vuex Search is a plugin for searching collections of objects. Search algorithms powered by [js-worker-search](https://github.com/bvaughn/js-worker-search).
+> Vuex Search is a plugin for searching collections of objects. Search algorithms powered by [js-search](https://github.com/bvaughn/js-search).
 
 <p align="center"><img width="900" src="./web/assets/vuex-search_icons.png" alt="Vuex Search"></p>
 

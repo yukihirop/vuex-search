@@ -6,7 +6,7 @@
       </a>
       <p class="info__description">
         Vuex Search is a plugin for searching collections of objects.
-        Search algorithms powered by <a href="https://github.com/bvaughn/js-worker-search">js-worker-search.</a>
+        Search algorithms powered by <a href="https://github.com/bvaughn/js-search">js-search.</a>
       </p>
       <h3 class="info__header">Installation</h3>
       <pre class="info__preformat">npm install --save vuex-search</pre>

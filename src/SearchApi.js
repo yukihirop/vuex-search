@@ -1,4 +1,4 @@
-import Search from 'js-worker-search';
+import Search from 'js-search';
 import { cancellablePromiseWrapper, cancellationSymbol } from './utils';
 
 /* eslint-disable no-underscore-dangle */
